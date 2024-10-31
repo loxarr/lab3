@@ -49,7 +49,7 @@ $ VBoxManage natnetwork remove --netname NATNetwork101
 
 Затем прописал команду в машине Б доступ к машине В:
 ```
-sudo iptables -A INPUT -s  -j DROP
+sudo iptables -A INPUT -s 192.168.10.5  -j DROP
 ```
 
 Все три машины:
