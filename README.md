@@ -53,7 +53,7 @@ sudo iptables -A INPUT -s 192.168.10.5  -j DROP
 ```
 
 Все три машины:
-<img width="1512" alt="Снимок экрана 2024-10-31 в 11 58 46" src="https://github.com/user-attachments/assets/7e3cefea-d864-455f-8161-d92695ca4bd0">
+<img width="1512" alt="Снимок экрана 2024-10-31 в 16 43 24" src="https://github.com/user-attachments/assets/62ef241a-62ab-4316-8cad-16f09a70d257">
 
 
 
